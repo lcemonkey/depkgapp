@@ -1,0 +1,10 @@
+depkgapp 1.0
+
+Utility to decrypt and extract Playstation 3, Playstation Portable and mixed
+game packages onto your PC.
+
+usage:
+
+./depkgapp [PKG_NAME]
+
+Based on code provided by Mathieulh
